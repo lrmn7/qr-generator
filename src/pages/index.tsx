@@ -15,11 +15,7 @@ import clsxm from "@/lib/helpers/clsxm";
 const Home: NextPage = () => {
   const router = useRouter();
   const { qr_value } = router.query;
-<<<<<<< HEAD
-  const [QRValue, setQRValue] = useState<string>("https://lrmn.is-a.fun");
-=======
   const [QRValue, setQRValue] = useState<string>("https://is-a.fun");
->>>>>>> eff4a04 (update embed)
   const [QRStyle, setQRStyle] = useState<"squares" | "dots">("squares");
   const [imageURL, setImageURL] = useState<string>("");
   const [bgColor, setBgColor] = useState<string>("#FFFFFF");
@@ -134,11 +130,7 @@ const Home: NextPage = () => {
                 <p>
                   Better use{" "}
                   <UnderlineLink
-<<<<<<< HEAD
-                    href="https://shortin.yehezgun.com"
-=======
                     href="https://shortin.is-a.fun"
->>>>>>> eff4a04 (update embed)
                     className="hover:bg-rose-100 dark:hover:bg-rose-50"
                   >
                     link shortener
