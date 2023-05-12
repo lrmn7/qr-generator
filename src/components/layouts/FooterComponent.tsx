@@ -26,9 +26,9 @@ const FooterComponent = () => {
 <BaseImage
   src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=393953&theme=light"
   alt="QR Generator - simply and effortlessly with our tool. | Product Hunt"
-  style={{ width: "250px", height: "54px" }}
-  width="250"
-  height="54"
+  style={{ width: "150px", height: "24px" }}
+  width="150"
+  height="24"
 />
 
         </UnstyledLink>
