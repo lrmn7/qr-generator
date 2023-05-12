@@ -19,17 +19,6 @@ const FooterComponent = () => {
         <UnderlineLink href="https://is-a.fun">
           {new Date().getFullYear()} | L RMN
         </UnderlineLink>
-        <UnstyledLink
-          href="https://www.producthunt.com/posts/qr-generator-3?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-qr&#0045;generator&#0045;2"
-          target="_blank"
-        >
-          <BaseImage
-            src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=393953&theme=light"
-            alt="QR&#0032;Generator - Simple&#0032;QR&#0032;Code&#0032;Generator&#0046; | Product Hunt"
-            className="w-32 hover:brightness-75"
-          />
-
-        </UnstyledLink>
       </div>
       <UnderlineLink
         href="https://github.com/sponsors/lrmn7"
