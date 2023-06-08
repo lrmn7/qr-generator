@@ -1,6 +1,6 @@
 # Simple QR Generator
 
-![qr-generator](https://cdn.discordapp.com/attachments/1091192083852828744/1108784874548121640/Screenshot_2023-05-18_at_22-55-04_QR_Generator.png)
+![qr-generator](https://res.cloudinary.com/lrmn/image/upload/v1686208787/lrmn.dev/qrcode_ylp5sv.png)
 
 This is just a quick mini project of a QR Generator. The live demo can be accessed at [qr-generator](https://qr-generator.is-a.fun/)
 
